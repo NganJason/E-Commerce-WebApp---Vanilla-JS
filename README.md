@@ -1,4 +1,4 @@
-# E-Commerce-WebApp--Vanilla-JS
+# E-Commerce-WebApp__Vanilla-JS
 
 An interactive e-commerce website that allows user to 
 - View different available products
